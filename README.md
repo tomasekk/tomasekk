@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ondrej, but you can call me Ondra ;)
-- I am 20 years old student on University
+- I am 20 years old student on University and a programmer at a company
 - 👀 I’m interested in programming and development
 - 🌱 I’m currently learning Java
 - I can program in languages such as Python, Java, HTML, CSS and basics in JavaScript
