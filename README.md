@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Ondrej, but you can call me Ondra ;)
+- 👋 Hi, I’m Ondrej ;)
 - I am 22 years old student on University and a programmer at a company
-- 👀 I’m interested in programming and development
-- I can program in languages such as Python, Java, React Native, HTML, CSS and basics in JavaScript
+- 👀 Interested in programming and development,
+- I can develop in languages such as Python, Java, React Native, HTML, CSS, JavaScript, NextJS
 - 💞️ I’m looking to collaborate on developing Python apps, app services or work in data manipulation sector
 - 📫 You can reach me by messaging me on LinkedIn: linkedin.com/in/ondrat
 
