@@ -27,3 +27,7 @@ I’m looking to collaborate on:
   </a>
 </div>
 
+### See one of my projects
+Create job adapted resumes or check your resume quality using my tools AI
+[LinkResume](https://www.linkresume.net?utm_source=GitHub&utm_medium=tomasekk&utm_campaign=profile)
+
